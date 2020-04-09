@@ -1,0 +1,5 @@
+ID	Name	Item_name	Quantity	Price($)	Discount(%)	Received_date	Ordered_date	Delivery_fee($)	address	Phone_number	Delivery_man	Deliveryman_phone_number
+1	AAAA	T-shirt		2		10		0		12/1/2019	12/1/2019	0		PPPPPP	092475257	aasdasd		045295708
+2	AAAA	T-shirt		2		10		0		12/1/2019	12/1/2019	0		PPPPPP	092475257	aasdasd		045295708
+3	AAAA	T-shirt		2		10		0		12/1/2019	12/1/2019	0		PPPPPP	092475257	aasdasd		045295708
+4	AAAA	T-shirt		2		10		0		12/1/2019	12/1/2019	0		PPPPPP	092475257	aasdasd		045295708
