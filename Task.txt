@@ -1,0 +1,22 @@
+function that we write in code :
+1. display_Menu()	>> make a choice for the user to choose 
+2.Option()	>> switch(case)
+3.readfile()	>> read old customer (file txt) 
+4.displayallcustomer()	>>include (old + new customer)
+5.reset()		>> initailize start count number from zero
+6.deleting() 	>>(delete custormer )
+7.updateCustomer()	>> (editinformation)
+8.specific_information_custormer()	>>examine the custormer 
+9.addCustomer()	>> add new custormer
+10. writeFile() 	>>stored text in file
+
+1.laing bunlai	>>1. display_Menu()
+2.kanika		>>2.Option()
+3.sonya		>>3.readfile()
+4.Ravin		>>10. writeFile() 
+5.Lyhean		>>4.displayallcustomer()
+6.Dara		>>6.deleting() 
+7.laing Bunlai	>>9.addCustomer()	
+8.Ravin		>>5.reset()
+9.Lyhean		>>7.updateCustomer()
+10.Dara		>>8.specific_information_custormer()
