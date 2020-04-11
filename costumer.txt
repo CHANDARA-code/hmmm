@@ -1,5 +1,0 @@
-ID	Name	Item_name	Quantity	Price($)	Discount(%)	Ordered_date	Received_date	Delivery_fee($)	address	Phone_number	Delivery_man	Deliveryman_phone_number
-1	AAAA	T-shirt		2		10		0		12/1/2019	12/1/2019	0		PPPPPP	092475257	aasdasd		045295708
-2	FFFF	Laptop		1		1200		0		12/12/2020	12/12/2020	0		NNNNNN	045632178	Panha		012587456
-3	FFFF	Laptop		1		1200		0		12/12/2020	12/12/2020	0		NNNNNN	045632178	Panha		012587456
-4	FFFF	Laptop		1		1200		0		12/12/2020	12/12/2020	0		NNNNNN	045632178	Panha		012587456
