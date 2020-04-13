@@ -1,8 +1,0 @@
-No	Name	Item_name	Quantity	Price($)	Discount(%)	Ordered_date	Received_date	Delivery_fee($)	address	Phone_number	Delivery_man	Deliveryman_phone_number
-1	Kupa	Laptop		1		1200		0		12/12/2020	12/12/2020	0		PP	045632178	Jonhson		017445647
-2	Dyroth	Laptop		1		1200		0		12/12/2020	12/12/2020	0		PP	045632178	Jonhson		017445647
-3	Fanny	Laptop		1		1200		0		12/12/2020	12/12/2020	0		PP	045632178	Jonhson		017445647
-4	Masha	Phone		1		1100		0		12/12/2020	12/12/2020	0		PP	045632178	Jonhson		017445647
-5	Alucard	Moto		1		2300		0		12/11/2020	12/12/2020	0		PP	045632178	Jonhson		017445647
-6	Laila	Desktop		1		900		0		11/12/2020	12/12/2020	0		PP	045632178	Jonhson		017445647
-7	Granger	Iphone		1		1100		0		02/12/2020	03/12/2020	0		PP	045632178	Jonhson		017445647
