@@ -1,0 +1,6 @@
+No	ID	Name	Item_name	Quantity	Price($)	Discount(%)	Ordered_date	Received_date	Delivery_fee($)	address	Phone_number	Delivery	Delivery_phone_number	Total($)
+1	22	Dyroth	Laptop		1		1200		0		12/12/2020	12/12/2020	0		PP	045632178	Jonhson		017445647		1200.00
+2	44	Masha	Phone		1		1100		0		12/12/2020	12/12/2020	0		PP	045632178	Jonhson		017445647		1200.00
+3	55	Alucard	Moto		1		2300		0		12/11/2020	12/12/2020	0		PP	045632178	Jonhson		017445647		1200.00
+4	66	Laila	Desktop		1		900		0		11/12/2020	12/12/2020	0		PP	045632178	Jonhson		017445647		1100.00
+5	88	Roger	Laptop		1		1600		10		23/04/2020	23/04/2020	2		PP	012345678	Jonhson		017445647		2300.00
