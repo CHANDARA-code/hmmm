@@ -17,7 +17,7 @@ char Delivery_fee[100];
 char address[100];
 char Phone_number[100];
 char Delivery_man[100];
-char delivery_phone_number[100];
+char Delivery_phone_number[100];
 char Total[100];
 
 FILE *file;
